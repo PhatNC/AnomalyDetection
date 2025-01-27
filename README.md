@@ -68,3 +68,17 @@ Each method has its own unique workflow. Navigate to the respective folder and f
   ```bash
   python evaluate.py
   ```
+
+## Citation
+If you find this repository helpful in your research or work, please consider citing the related paper:
+
+```bibtex
+@InProceedings{Phat_2025_ImpactFogAnomalyDetection,
+  author    = {Phat C. Nguyen and Khang Nguyen},
+  title     = {Impact of Foggy Weather on Anomaly Detection in Aerial Traffic Surveillance Videos: An In-Depth Analysis},
+  journal   = {The Visual Computer},
+  month     = {},
+  year      = {},
+  pages     = {}
+}
+```
